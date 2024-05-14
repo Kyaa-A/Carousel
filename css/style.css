@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+.carousel{
+    height: 600px   ;
+}
+.carousel .carousel-item{
+    width: 400px;
+}
